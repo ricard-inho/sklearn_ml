@@ -1,7 +1,9 @@
 # Install
 ```
 pip install -U scikit-learn pandas matplotlib seaborn
-lr main.py
+python lr.py
+python unsupervised.py
+...
 ```
 
 # Linear Regression
